@@ -1,3 +1,6 @@
+# https://stackoverflow.com/questions/31836058/nltk-named-entity-recognition-to-a-python-list
+# https://stackoverflow.com/questions/24398536/named-entity-recognition-with-regular-expression-nltk
+
 import nltk
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
