@@ -7,3 +7,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day2: 12/18/2020: CheckedIn
 ### Day3: 12/19/2020: CheckedIn
 ### Day4: 12/20/2020: CheckedIn
+### Day5: 12/21/2020: CheckedIn
