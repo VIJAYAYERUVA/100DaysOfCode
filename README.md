@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# [100DaysOfCode](https://www.100daysofcode.com/)
 
 I'm publicly committing to the 100DaysOfCode Challenge starting today!
 #100DaysOfCode #HappyCoding
