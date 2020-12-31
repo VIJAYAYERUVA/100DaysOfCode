@@ -14,3 +14,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day9: 12/25/2020: CheckedIn
 ### Day10: 12/31/2020: CheckedIn
 ### Day11: 12/31/2020: CheckedIn
+### Day12: 12/31/2020: CheckedIn
