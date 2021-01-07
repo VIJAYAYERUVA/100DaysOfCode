@@ -23,3 +23,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day18: 1/3/2021: CheckedIn
 ### Day19: 1/4/2021: CheckedIn
 ### Day20: 1/5/2021: CheckedIn
+### Day21: 1/6/2021: CheckedIn
