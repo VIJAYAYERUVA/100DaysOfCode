@@ -32,3 +32,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day27: 1/13/2021: CheckedIn
 ### Day28: 1/13/2021: CheckedIn
 ### Day29: 1/14/2021: CheckedIn
+### Day30: 1/16/2021: CheckedIn
