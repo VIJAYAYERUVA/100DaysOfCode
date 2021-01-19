@@ -2,6 +2,7 @@
 # https://stackoverflow.com/questions/24398536/named-entity-recognition-with-regular-expression-nltk
 
 import nltk
+
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
 
