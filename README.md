@@ -35,3 +35,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day30: 1/16/2021: CheckedIn
 ### Day31: 1/16/2021: CheckedIn
 ### Day32: 1/17/2021: CheckedIn
+### Day33: 1/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/arrays.py)
