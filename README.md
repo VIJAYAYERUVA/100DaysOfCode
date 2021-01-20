@@ -71,3 +71,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day33: 1/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/arrays.py)
 
 ### Day34: 1/19/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/itertools_product.py)
+
+### Day35: 1/20/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/anagrams.py)
