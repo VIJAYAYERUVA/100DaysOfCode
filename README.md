@@ -79,3 +79,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day37: 1/22/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/itertools_combinations.py)
 
 ### Day38: 1/23/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/itertools_combinations_with_replacement.py)
+
+### Day39: 1/24/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsCounter.py)
