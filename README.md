@@ -82,10 +82,12 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 ### Day39: 1/24/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsCounter.py)
 
-### Day40: 1/24/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/defaultDict.py)
+### Day40: 1/25/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/defaultDict.py)
 
-### Day41: 1/25/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsNamedtuple.py)
+### Day41: 1/26/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsNamedtuple.py)
 
-### Day42: 1/26/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsOrderedDict.py)
+### Day42: 1/27/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/collectionsOrderedDict.py)
 
-### Day43: 1/27/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/wordOrder.py)
+### Day43: 1/28/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/wordOrder.py)
+
+### Day44: 1/29/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets1.py)
