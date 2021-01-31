@@ -91,3 +91,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day43: 1/28/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/wordOrder.py)
 
 ### Day44: 1/29/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets1.py)
+
+### Day45: 1/30/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets2.py)
