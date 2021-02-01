@@ -93,3 +93,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day44: 1/29/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets1.py)
 
 ### Day45: 1/30/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets2.py)
+
+### Day46: 1/31/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets3.py)
