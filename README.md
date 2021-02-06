@@ -103,3 +103,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day49: 2/3/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets5.py)
 
 ### Day50: 2/4/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets6.py)
+
+### Day51: 2/4/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/rangoli.py)
