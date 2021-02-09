@@ -109,3 +109,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day52: 2/6/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets7.py)
 
 ### Day53: 2/7/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/input.py)
+
+### Day54: 2/8/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/textAlignment.py)
