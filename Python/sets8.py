@@ -2,4 +2,4 @@
 
 for _ in range(int(input())):
     x, A, y, B = input(), set(input().split()), input(), set(input().split())
-print(A.issubset(B))
+    print(A.issubset(B))
