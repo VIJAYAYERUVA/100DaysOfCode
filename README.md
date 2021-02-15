@@ -121,3 +121,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day58: 2/12/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/anyall.py)
 
 ### Day59: 2/13/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sorting.py)
+
+### Day60: 2/14/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/map.py)
