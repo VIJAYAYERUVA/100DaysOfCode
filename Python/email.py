@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
+
 import re
 
 
@@ -7,8 +9,8 @@ def fun(s):
     return pattern.match(s)
 
 
-def filter_mail(emails):
-    return list(filter(fun, emails))
+def filter_mail(myemails):
+    return list(filter(fun, myemails))
 
 
 if __name__ == '__main__':
