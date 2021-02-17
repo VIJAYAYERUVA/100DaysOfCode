@@ -125,3 +125,5 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day60: 2/14/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/map.py)
 
 ### Day61: 2/15/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/email.py)
+
+### Day62: 2/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/split1.py)
