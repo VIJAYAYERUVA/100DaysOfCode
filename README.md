@@ -132,4 +132,6 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 ### Day64: 2/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/substring2.py)
 
-### Day65: 2/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/reduce.py)
+### Day65: 2/19/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/reduce.py)
+
+### Day66: 2/20/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/power.py)
