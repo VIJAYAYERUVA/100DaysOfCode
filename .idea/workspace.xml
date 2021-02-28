@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100DaysOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100DaysOfCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cf0f0828-8fc4-46f7-a5b5-532ac6b25e61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" module-name="100DaysOfCode" is-module-sdk="true">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="100DaysOfCode" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nHGIUG1BGUZGOxC6JGYE1XjGhG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.27150086" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="100DaysOfCode" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="100DaysOfCode" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.integers">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/coordinates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/integers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/power.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="substring1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/substring1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="substring2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python\substring2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.integers" />
+        <item itemvalue="Python.coordinates" />
+        <item itemvalue="Python.power" />
+        <item itemvalue="Python.substring2" />
+        <item itemvalue="Python.substring1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\VIJAYA\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="" />
+      <created>1611039527058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611039527058</updated>
+      <workItem from="1611039530305" duration="359000" />
+      <workItem from="1611040013272" duration="1106000" />
+      <workItem from="1611106242179" duration="2455000" />
+      <workItem from="1611114891173" duration="1977000" />
+      <workItem from="1611173035936" duration="1990000" />
+      <workItem from="1611265794842" duration="1471000" />
+      <workItem from="1611364710501" duration="2973000" />
+      <workItem from="1611383633848" duration="3346000" />
+      <workItem from="1611454807113" duration="469000" />
+      <workItem from="1611553571292" duration="2082000" />
+      <workItem from="1611593913760" duration="2256000" />
+      <workItem from="1611715782653" duration="810000" />
+      <workItem from="1611797056953" duration="4920000" />
+      <workItem from="1611899389726" duration="5300000" />
+      <workItem from="1611904749445" duration="1801000" />
+      <workItem from="1611982540341" duration="889000" />
+      <workItem from="1611983463137" duration="623000" />
+      <workItem from="1612062875155" duration="2305000" />
+      <workItem from="1612156048233" duration="673000" />
+      <workItem from="1612156998183" duration="7457000" />
+      <workItem from="1612383568974" duration="2349000" />
+      <workItem from="1612402571805" duration="2321000" />
+      <workItem from="1612407382438" duration="977000" />
+      <workItem from="1612408391954" duration="2641000" />
+      <workItem from="1612411097731" duration="1603000" />
+      <workItem from="1612414149781" duration="1428000" />
+      <workItem from="1612492936838" duration="2082000" />
+      <workItem from="1612573833747" duration="1198000" />
+      <workItem from="1612581266805" duration="1232000" />
+      <workItem from="1612661424841" duration="1468000" />
+      <workItem from="1612663400745" duration="2439000" />
+      <workItem from="1612747340264" duration="2807000" />
+      <workItem from="1612768626696" duration="1124000" />
+      <workItem from="1612836852813" duration="1561000" />
+      <workItem from="1613011924472" duration="3626000" />
+      <workItem from="1613110284917" duration="2115000" />
+      <workItem from="1613196110407" duration="3832000" />
+      <workItem from="1613313804233" duration="2343000" />
+      <workItem from="1613365187165" duration="1796000" />
+      <workItem from="1613401900637" duration="1274000" />
+      <workItem from="1613538519329" duration="2709000" />
+      <workItem from="1613544497956" duration="2832000" />
+      <workItem from="1613667102314" duration="4071000" />
+      <workItem from="1613709359026" duration="6020000" />
+      <workItem from="1613886309844" duration="2518000" />
+      <workItem from="1613926569244" duration="2909000" />
+      <workItem from="1613971222650" duration="3456000" />
+      <workItem from="1614035170209" duration="2195000" />
+      <workItem from="1614216113759" duration="1506000" />
+      <workItem from="1614317816489" duration="953000" />
+      <workItem from="1614318828142" duration="707000" />
+      <workItem from="1614373030048" duration="3073000" />
+      <workItem from="1614435107098" duration="1874000" />
+      <workItem from="1614478943892" duration="457000" />
+    </task>
+    <task id="LOCAL-00001" summary="Syncing PyCharm and GitHub">
+      <created>1611040390678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040390678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Reformatted code with PyCharm">
+      <created>1611040871778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040871778</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reformatted code with PyCharm">
+      <created>1611040898377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040898377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reformatted code with PyCharm">
+      <created>1611041040809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611041040809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day34 of # 100DaysOfCode">
+      <created>1611111768651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611111768651</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day35 of # 100DaysOfCode">
+      <created>1611125964239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611125964239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day36 of # 100DaysOfCode">
+      <created>1611266800456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611266800456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day37 of # 100DaysOfCode">
+      <created>1611365316883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611365316883</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day38 of # 100DaysOfCode">
+      <created>1611454344260</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611454344260</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Day39 of # 100DaysOfCode">
+      <created>1611554134577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611554134577</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day40 of # 100DaysOfCode">
+      <created>1611637518762</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611637518762</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day41 of # 100DaysOfCode">
+      <created>1611716474071</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611716474071</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Day42 of # 100DaysOfCode">
+      <created>1611797512538</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611797512538</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Day43 of # 100DaysOfCode">
+      <created>1611899666826</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611899666826</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Day43 of # 100DaysOfCode">
+      <created>1611900544057</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611900544057</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Day44 of # 100DaysOfCode">
+      <created>1611983048780</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611983048780</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Day45 of # 100DaysOfCode">
+      <created>1612067066330</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1612067066330</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Day46 of # 100DaysOfCode">
+      <created>1612156638082</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612156638082</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Day47 of # 100DaysOfCode">
+      <created>1612227143555</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612227143555</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Day48 of # 100DaysOfCode">
+      <created>1612400378854</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612400378854</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Day49 of # 100DaysOfCode">
+      <created>1612400620507</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1612400620507</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Day50 of # 100DaysOfCode">
+      <created>1612497731947</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1612497731947</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Day51 of # 100DaysOfCode">
+      <created>1612581050875</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612581050875</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Day51 of # 100DaysOfCode">
+      <created>1612581212782</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1612581212782</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Day52 of # 100DaysOfCode">
+      <created>1612663252931</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1612663252931</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Day53 of # 100DaysOfCode">
+      <created>1612751032023</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612751032023</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Day54 of # 100DaysOfCode">
+      <created>1612838127014</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1612838127014</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Day55 of # 100DaysOfCode">
+      <created>1613012576939</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613012576939</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Day56 of # 100DaysOfCode">
+      <created>1613013352902</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1613013352902</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Day57 of # 100DaysOfCode">
+      <created>1613109027350</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1613109027350</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Day57 of # 100DaysOfCode">
+      <created>1613109127039</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1613109127039</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Day57 of # 100DaysOfCode">
+      <created>1613110139749</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613110139749</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Day58 of # 100DaysOfCode">
+      <created>1613195814736</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613195814736</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Day58 of # 100DaysOfCode">
+      <created>1613196036278</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1613196036278</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Day59 of # 100DaysOfCode">
+      <created>1613275656608</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1613275656608</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Day60 of # 100DaysOfCode">
+      <created>1613364940171</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1613364940171</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Day61 of # 100DaysOfCode">
+      <created>1613539243185</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1613539243185</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Day62 of # 100DaysOfCode">
+      <created>1613544227307</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1613544227307</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Day63 of # 100DaysOfCode">
+      <created>1613709115475</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1613709115475</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Day64 of # 100DaysOfCode">
+      <created>1613709220782</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613709220782</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Day65 of # 100DaysOfCode">
+      <created>1613885639775</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613885639775</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Day66 of # 100DaysOfCode">
+      <created>1613886080253</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613886080253</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Day67 of # 100DaysOfCode">
+      <created>1613971104641</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613971104641</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Day68 of # 100DaysOfCode">
+      <created>1614056511223</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1614056511223</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Day69 of # 100DaysOfCode">
+      <created>1614231338299</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1614231338299</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Day70 of # 100DaysOfCode">
+      <created>1614231486709</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1614231486709</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Day71 of # 100DaysOfCode">
+      <created>1614318561312</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1614318561312</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Day72 of # 100DaysOfCode">
+      <created>1614374155740</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1614374155740</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day48 of # 100DaysOfCode" />
+    <MESSAGE value="Day49 of # 100DaysOfCode" />
+    <MESSAGE value="Day50 of # 100DaysOfCode" />
+    <MESSAGE value="Day51 of # 100DaysOfCode" />
+    <MESSAGE value="Day52 of # 100DaysOfCode" />
+    <MESSAGE value="Day53 of # 100DaysOfCode" />
+    <MESSAGE value="Day54 of # 100DaysOfCode" />
+    <MESSAGE value="Day55 of # 100DaysOfCode" />
+    <MESSAGE value="Day56 of # 100DaysOfCode" />
+    <MESSAGE value="Day57 of # 100DaysOfCode" />
+    <MESSAGE value="Day58 of # 100DaysOfCode" />
+    <MESSAGE value="Day59 of # 100DaysOfCode" />
+    <MESSAGE value="Day60 of # 100DaysOfCode" />
+    <MESSAGE value="Day61 of # 100DaysOfCode" />
+    <MESSAGE value="Day62 of # 100DaysOfCode" />
+    <MESSAGE value="Day63 of # 100DaysOfCode" />
+    <MESSAGE value="Day64 of # 100DaysOfCode" />
+    <MESSAGE value="Day65 of # 100DaysOfCode" />
+    <MESSAGE value="Day66 of # 100DaysOfCode" />
+    <MESSAGE value="Day67 of # 100DaysOfCode" />
+    <MESSAGE value="Day68 of # 100DaysOfCode" />
+    <MESSAGE value="Day69 of # 100DaysOfCode" />
+    <MESSAGE value="Day70 of # 100DaysOfCode" />
+    <MESSAGE value="Day71 of # 100DaysOfCode" />
+    <MESSAGE value="Day72 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day72 of # 100DaysOfCode" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="left" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100DaysOfCode$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1611116407654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$test.coverage" NAME="test Coverage Results" MODIFIED="1612407191171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1611040753736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$itertools_product.coverage" NAME="itertools_product Coverage Results" MODIFIED="1611111635041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+  </component>
+</project>
