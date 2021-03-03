@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="" />
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/plotly3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +101,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plotly3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotly3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -165,20 +192,7 @@
       <workItem from="1614435107098" duration="1874000" />
       <workItem from="1614478943892" duration="2742000" />
       <workItem from="1614576767094" duration="2834000" />
-    </task>
-    <task id="LOCAL-00004" summary="Reformatted code with PyCharm">
-      <created>1611041040809</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1611041040809</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Day34 of # 100DaysOfCode">
-      <created>1611111768651</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1611111768651</updated>
+      <workItem from="1614750962142" duration="1278000" />
     </task>
     <task id="LOCAL-00006" summary="Day35 of # 100DaysOfCode">
       <created>1611125964239</created>
@@ -509,7 +523,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614659935744</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Day76 of # 100DaysOfCode">
+      <created>1614751045001</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614751045002</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Day76 of # 100DaysOfCode">
+      <created>1614751219169</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1614751219169</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +581,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day51 of # 100DaysOfCode" />
     <MESSAGE value="Day52 of # 100DaysOfCode" />
     <MESSAGE value="Day53 of # 100DaysOfCode" />
     <MESSAGE value="Day54 of # 100DaysOfCode" />
@@ -578,7 +605,8 @@
     <MESSAGE value="Day73 of # 100DaysOfCode" />
     <MESSAGE value="Day74 of # 100DaysOfCode" />
     <MESSAGE value="Day75 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day75 of # 100DaysOfCode" />
+    <MESSAGE value="Day76 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day76 of # 100DaysOfCode" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
