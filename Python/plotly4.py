@@ -21,6 +21,6 @@ df2 = df2[[col for col in df2.columns if col.startswith('POP')]]
 
 data = [go.Scatter(x=df2.columns,
                    y=df2.loc[name],
-                   mode='lines',
+                   mode='markers+lines',
                    name=name) for name in df2.index]
 pyo.plot(data, filename='data/plotlyPlots/plotly4.html')
