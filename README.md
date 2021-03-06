@@ -152,10 +152,12 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 ### Day74: 2/28/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly1.py)
 
-### Day75: 3/1/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly2.ipynb)
+### Day75: 3/1/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly2.py)
 
 ### Day76: 3/2/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly3.py)
 
 ### Day77: 3/3/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly4.py)
 
 ### Day78: 3/4/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly5.py)
+
+### Day79: 3/5/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly6.py)
