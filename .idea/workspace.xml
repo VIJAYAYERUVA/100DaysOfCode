@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/plotly5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/data/2010YumaAZ.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/plotly2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/plotly6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/plotly2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +83,7 @@
       <recent name="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plotly5">
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plotly4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plotly6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,26 +116,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plotly5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,8 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plotly5" />
-        <item itemvalue="Python.plotly4" />
+        <item itemvalue="Python.plotly6" />
       </list>
     </recent_temporary>
   </component>
@@ -217,14 +201,9 @@
       <workItem from="1614752445025" duration="2470000" />
       <workItem from="1614797664288" duration="5232000" />
       <workItem from="1614898091536" duration="668000" />
-      <workItem from="1614917696531" duration="1522000" />
-    </task>
-    <task id="LOCAL-00008" summary="Day37 of # 100DaysOfCode">
-      <created>1611365316883</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1611365316883</updated>
+      <workItem from="1614917696531" duration="1872000" />
+      <workItem from="1614993923255" duration="2138000" />
+      <workItem from="1614996118721" duration="889000" />
     </task>
     <task id="LOCAL-00009" summary="Day38 of # 100DaysOfCode">
       <created>1611454344260</created>
@@ -562,11 +541,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614918774970</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Day78 of # 100DaysOfCode">
+      <created>1614919356253</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1614919356253</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -606,7 +595,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day53 of # 100DaysOfCode" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Day54 of # 100DaysOfCode" />
     <MESSAGE value="Day55 of # 100DaysOfCode" />
     <MESSAGE value="Day56 of # 100DaysOfCode" />
@@ -631,16 +620,14 @@
     <MESSAGE value="Day75 of # 100DaysOfCode" />
     <MESSAGE value="Day76 of # 100DaysOfCode" />
     <MESSAGE value="Day77 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day77 of # 100DaysOfCode" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="left" language="Python" />
-      </configuration>
-    </watches-manager>
+    <MESSAGE value="Day78 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day78 of # 100DaysOfCode" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100DaysOfCode$plotly2.coverage" NAME="plotly2 Coverage Results" MODIFIED="1614994258662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1611116407654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$test.coverage" NAME="test Coverage Results" MODIFIED="1612407191171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1611040753736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
