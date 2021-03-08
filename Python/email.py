@@ -9,16 +9,16 @@ def fun(s):
     return pattern.match(s)
 
 
-def filter_mail(myemails):
-    return list(filter(fun, myemails))
+def filter_mail(newemails):
+    return list(filter(fun, newemails))
 
 
 if __name__ == '__main__':
     n = int(input())
-    emails = []
+    myemails = []
     for _ in range(n):
-        emails.append(input())
+        myemails.append(input())
 
-filtered_emails = filter_mail(emails)
-filtered_emails.sort()
-print(filtered_emails)
+    filtered_emails = filter_mail(myemails)
+    filtered_emails.sort()
+    print(filtered_emails)
