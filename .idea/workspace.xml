@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="Day81 of # 100DaysOfCode">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,14 +229,7 @@
       <workItem from="1615048758457" duration="650000" />
       <workItem from="1615053743836" duration="2643000" />
       <workItem from="1615181249301" duration="1524000" />
-      <workItem from="1615266384040" duration="612000" />
-    </task>
-    <task id="LOCAL-00013" summary="Day42 of # 100DaysOfCode">
-      <created>1611797512538</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1611797512538</updated>
+      <workItem from="1615266384040" duration="1011000" />
     </task>
     <task id="LOCAL-00014" summary="Day43 of # 100DaysOfCode">
       <created>1611899666826</created>
@@ -576,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615181078189</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Day82 of # 100DaysOfCode">
+      <created>1615268152104</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1615268152104</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +622,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day57 of # 100DaysOfCode" />
     <MESSAGE value="Day58 of # 100DaysOfCode" />
     <MESSAGE value="Day59 of # 100DaysOfCode" />
     <MESSAGE value="Day60 of # 100DaysOfCode" />
@@ -649,7 +646,8 @@
     <MESSAGE value="Day79 of # 100DaysOfCode" />
     <MESSAGE value="Day80 of # 100DaysOfCode" />
     <MESSAGE value="Day81 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day81 of # 100DaysOfCode" />
+    <MESSAGE value="Day82 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day82 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -673,6 +671,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode$dash1.coverage" NAME="dash1 Coverage Results" MODIFIED="1615011022737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1611040753736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$email.coverage" NAME="email Coverage Results" MODIFIED="1615180701559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$plotly9.coverage" NAME="plotly9 Coverage Results" MODIFIED="1615268072135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$itertools_product.coverage" NAME="itertools_product Coverage Results" MODIFIED="1611111635041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
 </project>
