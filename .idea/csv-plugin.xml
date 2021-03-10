@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Python\plotly9.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\tesrrrrr.py">
           <value>
             <Attribute>
