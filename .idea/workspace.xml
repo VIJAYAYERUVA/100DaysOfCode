@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/plotly12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,14 +235,8 @@
       <workItem from="1615353707526" duration="3386000" />
       <workItem from="1615441765128" duration="364000" />
       <workItem from="1615442198264" duration="2145000" />
-      <workItem from="1615460139305" duration="2031000" />
-    </task>
-    <task id="LOCAL-00018" summary="Day46 of # 100DaysOfCode">
-      <created>1612156638082</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1612156638082</updated>
+      <workItem from="1615460139305" duration="3051000" />
+      <workItem from="1615530484003" duration="932000" />
     </task>
     <task id="LOCAL-00019" summary="Day47 of # 100DaysOfCode">
       <created>1612227143555</created>
@@ -581,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615503678985</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Day85 of # 100DaysOfCode">
+      <created>1615528411696</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1615528411696</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,7 +629,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day60 of # 100DaysOfCode" />
     <MESSAGE value="Day61 of # 100DaysOfCode" />
     <MESSAGE value="Day62 of # 100DaysOfCode" />
     <MESSAGE value="Day63 of # 100DaysOfCode" />
@@ -654,7 +653,8 @@
     <MESSAGE value="Day82 of # 100DaysOfCode" />
     <MESSAGE value="Day83 of # 100DaysOfCode" />
     <MESSAGE value="Day84 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day84 of # 100DaysOfCode" />
+    <MESSAGE value="Day85 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day85 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -671,7 +671,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfCode$dashlayout1.coverage" NAME="dashlayout1 Coverage Results" MODIFIED="1615053402212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode$plotly12.coverage" NAME="plotly12 Coverage Results" MODIFIED="1615528266093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$plotly12.coverage" NAME="plotly12 Coverage Results" MODIFIED="1615531954504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1611040753736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$itertools_product.coverage" NAME="itertools_product Coverage Results" MODIFIED="1611111635041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly2.coverage" NAME="plotly2 Coverage Results" MODIFIED="1614994258662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
