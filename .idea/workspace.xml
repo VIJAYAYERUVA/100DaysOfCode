@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="Day88 of # 100DaysOfCode">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Python/plotly16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="plotly16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotly16" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -166,14 +195,7 @@
       <workItem from="1615620473080" duration="2013000" />
       <workItem from="1615667341009" duration="3502000" />
       <workItem from="1615767151899" duration="608000" />
-      <workItem from="1615773879965" duration="1608000" />
-    </task>
-    <task id="LOCAL-00024" summary="Day51 of # 100DaysOfCode">
-      <created>1612581212782</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1612581212782</updated>
+      <workItem from="1615773879965" duration="2047000" />
     </task>
     <task id="LOCAL-00025" summary="Day52 of # 100DaysOfCode">
       <created>1612663252931</created>
@@ -511,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615767016152</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Day89 of # 100DaysOfCode">
+      <created>1615870259244</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1615870259245</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +588,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day64 of # 100DaysOfCode" />
     <MESSAGE value="Day65 of # 100DaysOfCode" />
     <MESSAGE value="Day66 of # 100DaysOfCode" />
     <MESSAGE value="Day67 of # 100DaysOfCode" />
@@ -584,7 +612,8 @@
     <MESSAGE value="Day86 of # 100DaysOfCode" />
     <MESSAGE value="Day87 of # 100DaysOfCode" />
     <MESSAGE value="Day88 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day88 of # 100DaysOfCode" />
+    <MESSAGE value="Day89 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day89 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
