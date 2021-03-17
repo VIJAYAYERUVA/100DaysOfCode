@@ -10,7 +10,7 @@ import pandas as pd
 
 
 # Import Dataset
-fname = 'data/stem.csv'
+fname = 'data/input/stem.csv'
 stem = pd.read_csv(fname, error_bad_lines=False)
 # stem.head()
 stem.count()
@@ -57,19 +57,19 @@ stem_m_os_l.count()
 # In[9]:
 
 
-stem_f_os_h.to_csv('data/Rating_Wise/OverallScore/stem_f_os_h.csv')
+stem_f_os_h.to_csv('data/output/Rating_Wise/OverallScore/stem_f_os_h.csv')
 
 # In[10]:
 
 
-stem_f_os_l.to_csv('data/Rating_Wise/OverallScore/stem_f_os_l.csv')
+stem_f_os_l.to_csv('data/output/Rating_Wise/OverallScore/stem_f_os_l.csv')
 
 # In[11]:
 
 
-stem_m_os_h.to_csv('data/Rating_Wise/OverallScore/stem_m_os_h.csv')
+stem_m_os_h.to_csv('data/output/Rating_Wise/OverallScore/stem_m_os_h.csv')
 
 # In[12]:
 
 
-stem_m_os_l.to_csv('data/Rating_Wise/OverallScore/stem_m_os_l.csv')
+stem_m_os_l.to_csv('data/output/Rating_Wise/OverallScore/stem_m_os_l.csv')

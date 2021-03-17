@@ -14,4 +14,4 @@ fig = px.scatter_3d(
     color=df.species, labels={'color': 'species'}
 )
 fig.update_traces(marker_size=8)
-pyo.plot(fig, filename='data/plotlyPlots/plotly15.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly15.html')

@@ -15,4 +15,4 @@ fig = px.scatter(
     projections, x=0, y=1,
     color=df.species, labels={'color': 'species'}
 )
-pyo.plot(fig, filename='data/plotlyPlots/plotly3.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly3.html')

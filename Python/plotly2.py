@@ -24,4 +24,4 @@ layout = go.Layout(
     title='Line chart showing three different modes'
 )
 fig = go.Figure(data=data, layout=layout)
-pyo.plot(fig, filename='data/plotlyPlots/plotly2.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly2.html')

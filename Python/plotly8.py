@@ -17,4 +17,4 @@ fig.add_trace(
         y=[1, 0.5, 0.7, -1.2, 0.3, 0.4]
     ))
 
-pyo.plot(fig, filename='data/plotlyPlots/plotly8.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly8.html')

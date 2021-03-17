@@ -18,4 +18,4 @@ layout = go.Layout(title='Daily temperatures from June 1-7, 2010 in Yuma, Arizon
                    hovermode='closest')
 fig = go.Figure(data=data, layout=layout)
 
-pyo.plot(fig, filename='data/plotlyPlots/plotly6.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly6.html')

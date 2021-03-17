@@ -9,4 +9,4 @@ pyo.plot([{
     'x': df.index,
     'y': df[col],
     'name': col
-} for col in df.columns], filename='data/plotlyPlots/plotly1.html')
+} for col in df.columns], filename='data/output/plotlyPlots/plotly1.html')

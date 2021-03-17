@@ -3,7 +3,7 @@ import pickle
 import re
 
 # Path to the file
-filepath = 'data/terms.txt'
+filepath = 'data/input/terms.txt'
 
 
 # definition to convert the data into list
@@ -14,13 +14,13 @@ def read_words(path):
 
 # definition to save the dictionary
 def save_obj(obj, name):
-    with open('data/' + name + '.pkl', 'wb') as f:
+    with open('data/output/' + name + '.pkl', 'wb') as f:
         pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
 
 
 # definition to load the dictionary
 def load_obj(name):
-    with open('data/' + name + '.pkl', 'rb') as f:
+    with open('data/output/' + name + '.pkl', 'rb') as f:
         return pickle.load(f)
 
 

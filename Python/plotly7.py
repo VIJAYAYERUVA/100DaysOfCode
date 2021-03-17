@@ -19,4 +19,4 @@ layout = go.Layout(
     between Quintus Curtius Snodgrass and Mark Twain'
 )
 fig = go.Figure(data=data, layout=layout)
-pyo.plot(fig, filename='data/plotlyPlots/plotly7.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly7.html')

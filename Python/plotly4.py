@@ -23,4 +23,4 @@ data = [go.Scatter(x=df2.columns,
                    y=df2.loc[name],
                    mode='markers+lines',
                    name=name) for name in df2.index]
-pyo.plot(data, filename='data/plotlyPlots/plotly4.html')
+pyo.plot(data, filename='data/output/plotlyPlots/plotly4.html')

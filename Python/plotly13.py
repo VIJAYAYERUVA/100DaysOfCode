@@ -6,4 +6,4 @@ fig = go.Figure(data=go.Heatmap(
     x=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
     y=['Morning', 'Afternoon', 'Evening'],
     hoverongaps=False))
-pyo.plot(fig, filename='data/plotlyPlots/plotly13.html')
+pyo.plot(fig, filename='data/output/plotlyPlots/plotly13.html')
