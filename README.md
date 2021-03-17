@@ -4,45 +4,45 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 # 100DaysOfCode #HappyCoding
 
-### Day1: 12/17/2020: CheckedIn
+### Day1: 12/17/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/getting-started-with-titanic.py)
 
-### Day2: 12/18/2020: CheckedIn
+### Day2: 12/18/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/count.py)
 
 ### Day3: 12/19/2020: CheckedIn
 
-### Day4: 12/20/2020: CheckedIn
+### Day4: 12/20/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/operators.py)
 
 ### Day5: 12/21/2020: CheckedIn
 
-### Day6: 12/22/2020: CheckedIn
+### Day6: 12/22/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/nltk1.py)
 
-### Day7: 12/23/2020: CheckedIn
+### Day7: 12/23/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/sets.py)
 
 ### Day8: 12/25/2020: CheckedIn
 
-### Day9: 12/25/2020: CheckedIn
+### Day9: 12/25/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/dictFromList.py)
 
-### Day10: 12/31/2020: CheckedIn
+### Day10: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/files.py)
 
-### Day11: 12/31/2020: CheckedIn
+### Day11: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/nltk2.py)
 
-### Day12: 12/31/2020: CheckedIn
+### Day12: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/dictionaries.py)
 
-### Day13: 12/31/2020: CheckedIn
+### Day13: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/functions.py)
 
-### Day14: 12/31/2020: CheckedIn
+### Day14: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/tuples.py)
 
-### Day15: 12/31/2020: CheckedIn
+### Day15: 12/31/2020: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/range.py)
 
 ### Day16: 1/1/2021: CheckedIn
 
 ### Day17: 1/2/2021: CheckedIn
 
-### Day18: 1/3/2021: CheckedIn
+### Day18: 1/3/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/countryStamps.py)
 
-### Day19: 1/4/2021: CheckedIn
+### Day19: 1/4/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/listComprehensions.py)
 
-### Day20: 1/5/2021: CheckedIn
+### Day20: 1/5/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/runnerUp.py)
 
 ### Day21: 1/6/2021: CheckedIn
 
@@ -181,4 +181,3 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day88: 3/14/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly15.py)
 
 ### Day89: 3/15/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly16.py)
-
