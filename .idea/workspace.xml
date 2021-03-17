@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="Day89 of # 100DaysOfCode">
-      <change afterPath="$PROJECT_DIR$/Python/data/input/2010YumaAZ.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/input/All_D_topics.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/input/cloud.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/input/hw1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/input/read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/input/terms.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/Components.txt" afterDir="false" />
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="Day90 of # 100DaysOfCode">
+      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/Reduced_dimensions.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly10.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly11.png" afterDir="false" />
@@ -28,53 +22,16 @@
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly7.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly8.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/write.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/hw1_Dimensionality_reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/dimensionality_reduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/2010YumaAZ.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/All_D_topics.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/plotlyPlots/plotly9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/read.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/terms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/termsDictionary.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Python/data/output/termsDictionary.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/write.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/dictFromList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dictFromList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/getting-started-with-titanic.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/data/output/plotlyPlots/First_two_components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/data/output/plotlyPlots/Reduced_dimension.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/hw1_Dimensionality_reduction.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/plotly1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/plotly11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/splitDF_Ratings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/splitDF_Ratings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/tic-tac-toe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/tic-tac-toe.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,104 +103,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.hw1_Dimensionality_reduction">
-    <configuration name="dictFromList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dictFromList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw1_Dimensionality_reduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/hw1_Dimensionality_reduction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plotly16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.hw1_Dimensionality_reduction" />
-        <item itemvalue="Python.files" />
-        <item itemvalue="Python.dictFromList" />
-        <item itemvalue="Python.plotly16" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -336,14 +195,8 @@
       <workItem from="1615773879965" duration="2490000" />
       <workItem from="1615871401953" duration="1408000" />
       <workItem from="1615941872515" duration="2707000" />
-      <workItem from="1615945901103" duration="571000" />
-    </task>
-    <task id="LOCAL-00026" summary="Day53 of # 100DaysOfCode">
-      <created>1612751032023</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1612751032023</updated>
+      <workItem from="1615945901103" duration="1144000" />
+      <workItem from="1615947078638" duration="1123000" />
     </task>
     <task id="LOCAL-00027" summary="Day54 of # 100DaysOfCode">
       <created>1612838127014</created>
@@ -681,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615870805891</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Day90 of # 100DaysOfCode">
+      <created>1615946765704</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1615946765704</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -729,7 +589,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day65 of # 100DaysOfCode" />
     <MESSAGE value="Day66 of # 100DaysOfCode" />
     <MESSAGE value="Day67 of # 100DaysOfCode" />
     <MESSAGE value="Day68 of # 100DaysOfCode" />
@@ -754,7 +613,8 @@
     <MESSAGE value="Day87 of # 100DaysOfCode" />
     <MESSAGE value="Day88 of # 100DaysOfCode" />
     <MESSAGE value="Day89 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day89 of # 100DaysOfCode" />
+    <MESSAGE value="Day90 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day90 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -774,7 +634,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly12.coverage" NAME="plotly12 Coverage Results" MODIFIED="1615531954504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly14.coverage" NAME="plotly14 Coverage Results" MODIFIED="1615709431466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1611040753736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/100DaysOfCode$hw1_Dimensionality_reduction.coverage" NAME="hw1_Dimensionality_reduction Coverage Results" MODIFIED="1615946439015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$hw1_Dimensionality_reduction.coverage" NAME="hw1_Dimensionality_reduction Coverage Results" MODIFIED="1615946563212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$itertools_product.coverage" NAME="itertools_product Coverage Results" MODIFIED="1611111635041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly13.coverage" NAME="plotly13 Coverage Results" MODIFIED="1615668062145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly2.coverage" NAME="plotly2 Coverage Results" MODIFIED="1614994258662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
@@ -789,6 +649,7 @@
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly11.coverage" NAME="plotly11 Coverage Results" MODIFIED="1615503567503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$email.coverage" NAME="email Coverage Results" MODIFIED="1615180701559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly9.coverage" NAME="plotly9 Coverage Results" MODIFIED="1615268072135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/100DaysOfCode$dimensionality_reduction__1_.coverage" NAME="dimensionality_reduction (1) Coverage Results" MODIFIED="1616019472661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/100DaysOfCode$plotly15.coverage" NAME="plotly15 Coverage Results" MODIFIED="1615766753929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
 </project>
