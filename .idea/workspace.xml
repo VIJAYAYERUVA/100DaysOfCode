@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="Day90 of # 100DaysOfCode">
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/Reduced_dimensions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/dimensionality_reduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/output/plotlyPlots/First_two_components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/data/output/plotlyPlots/Reduced_dimension.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/hw1_Dimensionality_reduction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,14 +170,8 @@
       <workItem from="1615871401953" duration="1408000" />
       <workItem from="1615941872515" duration="2707000" />
       <workItem from="1615945901103" duration="1144000" />
-      <workItem from="1615947078638" duration="1123000" />
-    </task>
-    <task id="LOCAL-00027" summary="Day54 of # 100DaysOfCode">
-      <created>1612838127014</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1612838127014</updated>
+      <workItem from="1615947078638" duration="1663000" />
+      <workItem from="1616021697121" duration="508000" />
     </task>
     <task id="LOCAL-00028" summary="Day55 of # 100DaysOfCode">
       <created>1613012576939</created>
@@ -541,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615946765704</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Day90 of # 100DaysOfCode">
+      <created>1616019644730</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1616019644731</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
