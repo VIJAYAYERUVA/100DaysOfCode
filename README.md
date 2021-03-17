@@ -44,29 +44,29 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 ### Day20: 1/5/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/runnerUp.py)
 
-### Day21: 1/6/2021: CheckedIn
+### Day21: 1/6/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/list2.py)
 
-### Day22: 1/7/2021: CheckedIn
+### Day22: 1/7/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/percentage.py)
 
-### Day23: 1/8/2021: CheckedIn
+### Day23: 1/8/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/split.py)
 
-### Day24: 1/9/2021: CheckedIn
+### Day24: 1/9/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/stringCaps.py)
 
-### Day25: 1/10/2021: CheckedIn
+### Day25: 1/10/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/palindromeANDpangram.py)
 
-### Day26: 1/11/2021: CheckedIn
+### Day26: 1/11/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/findAstring.py)
 
-### Day27: 1/13/2021: CheckedIn
+### Day27: 1/13/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/textWrap.py)
 
-### Day28: 1/13/2021: CheckedIn
+### Day28: 1/13/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/designerDoorMat.py)
 
 ### Day29: 1/14/2021: CheckedIn
 
-### Day30: 1/16/2021: CheckedIn
+### Day30: 1/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/stringFormatting.py)
 
-### Day31: 1/16/2021: CheckedIn
+### Day31: 1/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/lineANDcylinder.py)
 
-### Day32: 1/17/2021: CheckedIn
+### Day32: 1/17/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/symmetricDifference.py)
 
 ### Day33: 1/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/arrays.py)
 
@@ -182,4 +182,4 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 
 ### Day89: 3/15/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly16.py)
 
-### Day90: 3/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/hw1_Dimensionality_reduction.py)
+### Day90: 3/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/dimensionality_reduction.py)
