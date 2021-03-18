@@ -80,6 +80,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Python\plotly16.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Python\plotly17.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Python\plotly2.py">
           <value>
             <Attribute>
