@@ -185,3 +185,7 @@ I'm publicly committing to the 100DaysOfCode Challenge starting today!
 ### Day90: 3/16/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/dimensionality_reduction.py)
 
 ### Day91: 3/17/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly17.py)
+
+### Day92: 3/18/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly18.py)
+
+### Day93: 3/19/2021: [CheckedIn](https://github.com/VIJAYAYERUVA/100DaysOfCode/blob/main/Python/plotly19.py)
