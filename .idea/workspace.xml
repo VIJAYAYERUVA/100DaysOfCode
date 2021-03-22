@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,14 +173,7 @@
       <workItem from="1616040336966" duration="1195000" />
       <workItem from="1616189712096" duration="1091000" />
       <workItem from="1616190839637" duration="6874000" />
-      <workItem from="1616385955101" duration="1058000" />
-    </task>
-    <task id="LOCAL-00035" summary="Day59 of # 100DaysOfCode">
-      <created>1613275656608</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1613275656608</updated>
+      <workItem from="1616385955101" duration="1389000" />
     </task>
     <task id="LOCAL-00036" summary="Day60 of # 100DaysOfCode">
       <created>1613364940171</created>
@@ -520,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616385835255</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Day95 of # 100DaysOfCode">
+      <created>1616390555899</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1616390555899</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +566,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day69 of # 100DaysOfCode" />
     <MESSAGE value="Day70 of # 100DaysOfCode" />
     <MESSAGE value="Day71 of # 100DaysOfCode" />
     <MESSAGE value="Day72 of # 100DaysOfCode" />
@@ -593,7 +590,8 @@
     <MESSAGE value="Day91 of # 100DaysOfCode" />
     <MESSAGE value="Day92 of # 100DaysOfCode" />
     <MESSAGE value="Day93 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day93 of # 100DaysOfCode" />
+    <MESSAGE value="Day95 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day95 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
