@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/plotly20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/plotly21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/getting-started-with-titanic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,81 +77,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\VIJAYA\Desktop\Programming\Python\100DaysOfCode\Python" />
     </key>
-  </component>
-  <component name="RunManager" selected="Python.plotly21">
-    <configuration name="plotly19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plotly20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plotly21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/plotly21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.plotly21" />
-        <item itemvalue="Python.plotly19" />
-        <item itemvalue="Python.plotly20" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -258,14 +174,8 @@
       <workItem from="1616021697121" duration="1266000" />
       <workItem from="1616040336966" duration="1195000" />
       <workItem from="1616189712096" duration="1091000" />
-      <workItem from="1616190839637" duration="6765000" />
-    </task>
-    <task id="LOCAL-00034" summary="Day58 of # 100DaysOfCode">
-      <created>1613196036278</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1613196036278</updated>
+      <workItem from="1616190839637" duration="6874000" />
+      <workItem from="1616385955101" duration="1058000" />
     </task>
     <task id="LOCAL-00035" summary="Day59 of # 100DaysOfCode">
       <created>1613275656608</created>
@@ -603,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616297843202</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Day93 of # 100DaysOfCode">
+      <created>1616385835255</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1616385835255</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,7 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day68 of # 100DaysOfCode" />
     <MESSAGE value="Day69 of # 100DaysOfCode" />
     <MESSAGE value="Day70 of # 100DaysOfCode" />
     <MESSAGE value="Day71 of # 100DaysOfCode" />
@@ -676,7 +592,8 @@
     <MESSAGE value="Day90 of # 100DaysOfCode" />
     <MESSAGE value="Day91 of # 100DaysOfCode" />
     <MESSAGE value="Day92 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day92 of # 100DaysOfCode" />
+    <MESSAGE value="Day93 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day93 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
