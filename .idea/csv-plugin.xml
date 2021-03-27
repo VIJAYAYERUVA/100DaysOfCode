@@ -122,6 +122,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Python\plotly21.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Python\plotly22.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Python\plotly3.py">
           <value>
             <Attribute>
