@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/data/output/plotlyPlots/plotly25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/plotly26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/plotly26.py" afterDir="false" />
-    </list>
+    <list default="true" id="2be6152f-bbc5-4dc8-9213-0e9fcb3ab69a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -307,14 +299,7 @@
       <workItem from="1616556620509" duration="1540000" />
       <workItem from="1616647854734" duration="2535000" />
       <workItem from="1616724549164" duration="3818000" />
-      <workItem from="1616818695520" duration="687000" />
-    </task>
-    <task id="LOCAL-00047" summary="Day71 of # 100DaysOfCode">
-      <created>1614318561312</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1614318561312</updated>
+      <workItem from="1616818695520" duration="897000" />
     </task>
     <task id="LOCAL-00048" summary="Day72 of # 100DaysOfCode">
       <created>1614374155740</created>
@@ -652,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616818814360</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Day100 of # 100DaysOfCode">
+      <created>1616819467130</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1616819467130</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,7 +692,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Day71 of # 100DaysOfCode" />
     <MESSAGE value="Day72 of # 100DaysOfCode" />
     <MESSAGE value="Day73 of # 100DaysOfCode" />
     <MESSAGE value="Day74 of # 100DaysOfCode" />
@@ -725,7 +716,8 @@
     <MESSAGE value="Day93 of # 100DaysOfCode" />
     <MESSAGE value="Day95 of # 100DaysOfCode" />
     <MESSAGE value="Day97 of # 100DaysOfCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day97 of # 100DaysOfCode" />
+    <MESSAGE value="Day100 of # 100DaysOfCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day100 of # 100DaysOfCode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
